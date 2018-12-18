@@ -6,7 +6,7 @@ Pytorch implementation of 'TRAINING DEEP NEURAL-NETWORKS USING A NOISE ADAPTATIO
 - Pytorch 1.0
 - tqdm
 
-## Results
+## CIFAR100 Results
 
 | Model | Test accuracy |
 | ---- | ---- |
