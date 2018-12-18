@@ -11,6 +11,6 @@ Pytorch implementation of 'TRAINING DEEP NEURAL-NETWORKS USING A NOISE ADAPTATIO
 | Model | Test accuracy |
 | ---- | ---- |
 |**Baseline**| 36.27% |
-|**SimpleCNN(uniform noise initialization)**| 30.24% |
+|**SimpleCNN(uniform noise initialization)**| 30.24% (...?) |
 
 optimization still on progress...
